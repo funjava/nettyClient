@@ -16,4 +16,11 @@ public class Test {
 		
 	}
 
+	public void getLeft() {
+
+		String name = "i have a problem b";
+		System.out.println(name.lastIndexOf("o"));
+
+	}
+
 }
