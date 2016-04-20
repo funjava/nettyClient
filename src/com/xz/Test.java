@@ -19,8 +19,14 @@ public class Test {
 	public void getLeft() {
 
 		String name = "i have a problem b";
-		System.out.println(name.lastIndexOf("o"));
+		System.out.println(name.lastIndexOf("a"));
 
+	}
+	
+	public String getName() {
+
+		String name = "";
+		return name;
 	}
 
 }
