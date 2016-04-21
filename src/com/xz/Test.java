@@ -25,7 +25,7 @@ public class Test {
 	
 	public String getName() {
 
-		String name = "";
+		String name = "hello world";
 		return name;
 	}
 
