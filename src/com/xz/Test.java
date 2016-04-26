@@ -25,8 +25,8 @@ public class Test {
 	
 	public String getName() {
 
-		String name = "hello world";
-		String describe="change world";
+		String name = "hello world again";
+		String describe="change world yes";
 		return name+describe;
 	}
 
